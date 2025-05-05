@@ -4,7 +4,7 @@
 
 I'm a passionate UI/UX designer and graphic designer with a keen eye for aesthetics and functionality. My goal is to create intuitive, user-friendly, and visually stunning designs that enhance user experiences.
 
-🔧 Tech & Design Stack:
+**🔧 Tech & Design Stack:**
 
 UI/UX Design: Figma, Adobe XD, Sketch
 
@@ -16,31 +16,31 @@ Other Tools: Git, Notion, Trello
 
 **🎨 Featured Projects:**
 
-Smilley E-commerce
+**Smilley E-commerce**
 
 A user-friendly online shopping platform designed with accessibility in mind.
 
-Afrilodge
+**Afrilodge**
 
 An Airbnb-like vacation rental app tailored for the African market.
 
-Lokate Me
+**Lokate Me**
 
 A safety app designed to help lost or kidnapped individuals find their way home.
 
 (More projects coming soon!)
 
-🔗 Connect with Me:
+**🔗 Connect with Me:**
 
 Portfolio: Coming soon
 
 LinkedIn: linkedin.com/in/jonathanhkwilliams
 
-Twitter/X: @jonathan_uiux
+Twitter/X: @jonathan
 
-Email: your.email@example.com
+Email: jonathan@walamen.com
 
-🌟 GitHub Stats & Badges
+🌟 **GitHub Stats & Badges**
 
 
 🚀 Fun Fact
